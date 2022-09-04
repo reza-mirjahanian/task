@@ -1,0 +1,11 @@
+{
+  "botId": "5f74865056d7bb000fcd39ff",
+  "message": "Hello ",
+  "reply": {
+    "id": "62f50e4bf4b44f6804bd5a81",
+    "text": "Hello :) How can I help you?",
+    "isDefault": false,
+    "description": "The visitor says hello.",
+    "intentName": "Greeting"
+  }
+}
